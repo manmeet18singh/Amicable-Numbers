@@ -7,3 +7,4 @@
 # amicablenumbers
 # DecimaltoBinary
 # DecimaltoBinary
+# DecimaltoBinary
